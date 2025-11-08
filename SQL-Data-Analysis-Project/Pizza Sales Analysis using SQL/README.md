@@ -279,7 +279,7 @@ If you would like to contribute to this project, feel free to fork the repositor
 
 For questions or further information:
 
-- **Name**: Dandi Kurniawan
-- **Email**: dandykurniawan180@gmail.com
-- **LinkedIn**: [Dandi Kurniawan](http://www.linkedin.com/in/dandi-kurniawan)
-- **GitHub**: [Dandi Kurniawan](https://github.com/dandykurniawan18)
+- **Name**: Farrel Muhammad
+- **Email**: farrelmuhammad182@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/farrel-muhammad-8a954725b
+- **GitHub**: https://github.com/farrelmuhammad182
